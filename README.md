@@ -10,7 +10,7 @@ node-rdpjs is a pure implementation of the Microsoft RDP (Remote Desktop Protoco
 You can install last release node-rdpjs through npm :
 
 ```
-npm install node-rdpjs
+npm install rdpjs
 ```
 
 Or work with dev branch :
